@@ -1,8 +1,23 @@
+---
+layout: post
+title: "Angular 학습 - 01. Before Starting"
+---
+
 # Angular
-* [Angular 버저닝](#angular-버저닝)
-* [컴포넌트 기반](#컴포넌트-기반)
-* [모듈 로딩](#모듈-로딩)
-* [zone.js 변경 감지](#zone.js-변경-감지)
+- [Angular](#angular)
+    - [Angular 버저닝](#angular-%EB%B2%84%EC%A0%80%EB%8B%9D)
+        - [AngularJS --> Angular](#angularjs----angular)
+        - [Angular 버저닝 정책](#angular-%EB%B2%84%EC%A0%80%EB%8B%9D-%EC%A0%95%EC%B1%85)
+    - [컴포넌트 기반](#%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B8%B0%EB%B0%98)
+    - [모듈 로딩](#%EB%AA%A8%EB%93%88-%EB%A1%9C%EB%94%A9)
+        - [모듈과 모듈 로딩](#%EB%AA%A8%EB%93%88%EA%B3%BC-%EB%AA%A8%EB%93%88-%EB%A1%9C%EB%94%A9)
+    - [zone.js 변경 감지](#zonejs-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80)
+        - [기존의 변경 감지](#%EA%B8%B0%EC%A1%B4%EC%9D%98-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80)
+        - [zone.js](#zonejs)
+            - [무엇](#%EB%AC%B4%EC%97%87)
+            - [Angular에서는](#angular%EC%97%90%EC%84%9C%EB%8A%94)
+            - [보다 빠른 변경 감지](#%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EB%B3%80%EA%B2%BD-%EA%B0%90%EC%A7%80)
+            - [immutable](#immutable)
 
 
 ## Angular 버저닝  
