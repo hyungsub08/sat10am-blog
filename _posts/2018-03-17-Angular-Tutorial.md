@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Angular 튜토리얼(1)"
+title: "Angular 공식 사이트 기본 튜토리얼 요약/실습 내용"
 ---
 
 # Angular Tutorial😵 18/03/17

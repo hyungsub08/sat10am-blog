@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Angular 학습 - 01. Quick Start"
+title: "Angular 학습자료 - 01. Quick Start"
 ---
 
 

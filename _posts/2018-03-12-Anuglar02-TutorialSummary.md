@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Angular 학습 - 02. Tutorial Summary"
+title: "Angular 학습 - 02. Tutorial Introduction"
 ---
 
 
