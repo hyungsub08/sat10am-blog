@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Angular 학습 - 03. Application Shell"
+title: "Angular 학습자료 - 03. Application Shell"
 ---
 
 # 2. 프로젝트 생성
