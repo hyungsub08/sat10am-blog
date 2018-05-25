@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Angular 학습자료 - 템플릿문법"
+---
+
 # Template Syntax
 ## HTML in templates
 * 템플릿 문법은 템플릿을 작성하기 위한 Angular 고유의 확장 표기법이다.

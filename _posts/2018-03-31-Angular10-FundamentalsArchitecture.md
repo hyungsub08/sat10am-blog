@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Angular 학습자료 - 10. Fundamentals Architecture"
+---
+
 # Fundamentals_Architecture_18/03/31
 
 [ ] 모듈

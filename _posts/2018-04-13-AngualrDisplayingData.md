@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Angular 학습자료 - 데이터 전시"
+---
+
+
 # 데이터 전시(Displaying Data)
 ## 인터폴레이션
 * 인터폴레이션(`interpolation`)으로 컴포넌트 요소(`property`) 전시
